@@ -1,5 +1,5 @@
 # 📅 Appointment Scheduling Dashboard
-**A data-driven dashboard built using cleaned appointment scheduling data to visualize and analyze booking trends, appointment history, and user.
+## A data-driven dashboard built using cleaned appointment scheduling data to visualize and analyze booking trends, appointment history, and user.
 
 🔍 Features
 Interactive data visualizations (charts, graphs, tables)
@@ -24,4 +24,4 @@ This dashboard provides insights from historical appointment scheduling data to 
 
 Optimize scheduling efficiency
 
-Identify peak demand times**
+Identify peak demand times
