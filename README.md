@@ -1,5 +1,6 @@
 # 📅 Appointment Scheduling Dashboard
 A data-driven dashboard built using cleaned appointment scheduling data to visualize and analyze booking trends, appointment history, and user.
+I uploaded PDF File only for view & Dashboard for your view over PowerBI.
 
 ### 🔍 Features
 Interactive data visualizations (charts, graphs, tables)
